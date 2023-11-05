@@ -2,7 +2,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&width=500&height=70&duration=4000&pause=800&size=35&center=true&random=false&lines=Hi+👋,+I'm+Mehrvar" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&width=500&height=70&duration=4000&pause=800&size=35&center=true&random=false&lines=Hi+👋,+I'm+Mehrvar" alt="Typing SVG" /> 
 </h1>
 <h3 align="center">Frontend developer from Tajikistan</h3>
 

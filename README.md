@@ -1,10 +1,7 @@
-<p> <img align="center" width="650" height="300" src="https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966" alt="developer-img">
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&width=500&height=70&duration=4000&pause=800&size=35&center=true&random=false&lines=Hi+👋,+I'm+Mehrvar" alt="Typing SVG" /> 
 </h1>
-<h3 align="center">Frontend developer from Tajikistan</h3>
+<h3 align="center">Developer from Tajikistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrvarshodiev&label=Profile%20views&color=0e75b6&style=flat" alt="mehrvarshodiev" /> </p>
@@ -14,7 +11,9 @@
   <img align="right" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding-gif"><br>
 </p>
 
-- 🌱 I’m currently learning **React JS, MySQL**
+- 🌱 Always in the way of learning new technology**
+
+- 💻 No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― Ram Ray
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://mehrvarshodiev.github.io/portfolio/)
 

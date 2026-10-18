@@ -3,9 +3,6 @@
 </h1>
 <h3 align="center">Developer from Tajikistan</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrvarshodiev&label=Profile%20views&color=0e75b6&style=flat" alt="mehrvarshodiev" /> </p>
-
 <p align="left"> 
   <a href="https://twitter.com/shod1ev_" target="blank"><img src="https://img.shields.io/twitter/follow/shod1ev_?logo=twitter&style=for-the-badge" alt="shod1ev_" /></a> 
   <img align="right" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding-gif"><br>
